@@ -1,5 +1,3 @@
-# -Assignment-1-Maryam-Khizar
-
 # Build a Task Tracker
 
 ## Project Goal
